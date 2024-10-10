@@ -1,0 +1,9 @@
+100-pantofi sclipici-120-280
+101-sandale vinil-80-150
+102-sandale platforma SL-90-200
+103-pantofi toc lat-20-300
+90-balerini piele-10-90
+91-sandale impletite-5-120
+92-sandale bot patrat-10-340
+90-pantofi sport leopard-100-350
+10-ghete cowboy-10-500

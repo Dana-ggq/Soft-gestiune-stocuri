@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stoc stoc="Materii_Prime">
+  <Obiect>
+    <Cod>1001</Cod>
+    <Denumire>vinil</Denumire>
+    <Cantitate>90</Cantitate>
+    <Cost>20</Cost>
+  </Obiect>
+  <Obiect>
+    <Cod>1002</Cod>
+    <Denumire>piele neagra</Denumire>
+    <Cantitate>100</Cantitate>
+    <Cost>40</Cost>
+  </Obiect>
+  <Obiect>
+    <Cod>1003</Cod>
+    <Denumire>flecuri</Denumire>
+    <Cantitate>400</Cantitate>
+    <Cost>5</Cost>
+  </Obiect>
+  <Obiect>
+    <Cod>1004</Cod>
+    <Denumire>material textil</Denumire>
+    <Cantitate>180</Cantitate>
+    <Cost>20</Cost>
+  </Obiect>
+  <Obiect>
+    <Cod>1005</Cod>
+    <Denumire>aplicatii flori</Denumire>
+    <Cantitate>20</Cantitate>
+    <Cost>9</Cost>
+  </Obiect>
+</Stoc>

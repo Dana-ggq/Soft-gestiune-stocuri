@@ -1,0 +1,11 @@
+Stocul vinil este in cantitate de 90 este materie prima si are costul 20
+Stocul piele neagra este in cantitate de 100 este materie prima si are costul 40
+Stocul flecuri este in cantitate de 400 este materie prima si are costul 5
+Stocul material textil este in cantitate de 180 este materie prima si are costul 20
+Stocul aplicatii flori este in cantitate de 20 este materie prima si are costul 9
+Stocul piele este in cantitate de 100 este materie prima si are costul 2
+Stocul vinil este in cantitate de 90 este materie prima si are costul 20
+Stocul piele neagra este in cantitate de 100 este materie prima si are costul 40
+Stocul flecuri este in cantitate de 400 este materie prima si are costul 5
+Stocul material textil este in cantitate de 180 este materie prima si are costul 20
+Stocul aplicatii flori este in cantitate de 20 este materie prima si are costul 9
